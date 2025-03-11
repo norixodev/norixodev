@@ -1,3 +1,5 @@
 # - 👋 Hi, I’m @norixodev
-# - 🚀 Javascript Developper
-# - 🤓 Discord.JS Bot Maker
+# - 🚀 Javascript & C++ Developper 
+
+***Audaces fortuna juvat.***
+#- *fortune favors the bold.*
